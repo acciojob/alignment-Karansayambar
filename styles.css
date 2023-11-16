@@ -31,7 +31,9 @@ body {
         .center {
             text-align: center;
         }
-
+#t11{
+	border:1px solid rgb(0,0,0);
+}
         .right {
             text-align: right;
 }
